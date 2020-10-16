@@ -1,0 +1,3 @@
+ch16: The repeating image to create a larger pattern is prety cool to reduce file size, reminds me of NES game patterning. I mostly read this chapter with a focus on how to make a nav bar consistent in page, use 'fixed', and how to get images to scale based on window size, but that didn't really get covered, i'll assume targetted use of 'auto'. Also picked up on the sprite method of animated button by displaying certain box sizes of 1 image which seemed weird.
+ch19: Read like an index of quick tips, kind of a marketting focus on how to get a site launched. The FTP applications I'll have to grab one of those. 
+ch9: big take away, flash is out there, apple killed it, and not very friendly for accessibility.
