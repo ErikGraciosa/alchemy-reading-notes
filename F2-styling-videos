@@ -1,8 +1,11 @@
--custom radios
+You'll be able to watch the videos at 1.25 or 1.5 speed and still get most of it. Uses some tag/class CSS.
+
+-conditional styling!
+-custom radio buttons
 -custom checkboxes
 
--cool start of baseline to final product 
-for/id using a label but I thought we could just just keep the input in the label tags and acomplish the same thing.
+-good introduction of the topics starting with baseline form and final product form shown. 
+-presenter uses a for/id in CSS using a label but I thought we could just keep the input in the label tags and acomplish the same thing.
 -spans after check boxes for image check to appear later
 
 For radio buttons
@@ -10,3 +13,16 @@ For radio buttons
 -use own images, 1 image for all the image styles but styling different positions of the image
 -conditional styling for when checked for moving position of the image being displayed. based on psuedoclass "checked".
 
+For checkboxes
+-mostly the same thing as radios
+
+Background images on text inputs
+-just use background property to set an image.
+-has a sprite that has multiple images and check position based on conditional property
+
+Explains how to remove default properties that browsers and to dropdown.
+
+Shadow on a black background...ok.
+
+Validations
+-using "valid" psuedoclass for when input contains valid data to apply styles. Always a nice quality of life feature for users to avoid red *'s.
