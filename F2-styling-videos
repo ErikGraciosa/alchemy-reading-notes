@@ -1,0 +1,12 @@
+-custom radios
+-custom checkboxes
+
+-cool start of baseline to final product 
+for/id using a label but I thought we could just just keep the input in the label tags and acomplish the same thing.
+-spans after check boxes for image check to appear later
+
+For radio buttons
+-set opacity to zero, width zero, height zero
+-use own images, 1 image for all the image styles but styling different positions of the image
+-conditional styling for when checked for moving position of the image being displayed. based on psuedoclass "checked".
+
